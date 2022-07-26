@@ -30,4 +30,4 @@
 ```sh
 yay -S bspwm polybar rofi ksuperkey dunst sxhkd nitrogen cava kitty zathura zathura-pdf-mupdf catppuccin-gtk-theme fish
 ```
-And then just copy `/.config` and `/.scripts` to your home directory.
+And then just copy `/.config`, `/.fonts` and `/.scripts` to your home directory.
