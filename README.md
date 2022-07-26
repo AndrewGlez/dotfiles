@@ -1,20 +1,20 @@
 # dotfiles!
 ![simplescreenrecorder-2022-07-25_16 47 07](https://user-images.githubusercontent.com/58153210/181108086-8bdb6cbc-af43-4ac3-97dc-f6f2cb156810.gif)
 # Table of content
-- [Dependencies] (#dependencies)
+- [Dependencies] (#Dependencies)
 - [Installation](#installation)
 -----
 
  My | Catppuccin Rice |
 |---|---|
-|OS | EndeavourOS |
+|OS | Arch Linux |
 | WM | bspwm |
 | Terminal | kitty |
 | Shell | fish |
-| Prompt | starship | 
+| Prompt | oh-my-fish | 
 | Editor | VS Code |
-| Browser | Firefox |
-| Colorscheme | Catppuccin |
+| Browser | Firefox/Brave |
+| Colorscheme | Catppuccin (modified color) |
 
 -----
 # Dependencies
